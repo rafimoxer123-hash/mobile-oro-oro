@@ -1,0 +1,17 @@
+name: pasar_oro_oro_dowo
+description: Aplikasi mobile Pasar Oro-Oro Dowo untuk pembeli.
+publish_to: none
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^9.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    -./images/
